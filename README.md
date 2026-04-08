@@ -1,8 +1,14 @@
-# Trigger-View
 # 🧋 Sistem Database Toko Minuman (MySQL)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Database](https://img.shields.io/badge/Database-Relational-blue?style=for-the-badge)
 
 > Sistem database untuk manajemen toko minuman menggunakan **MySQL / MariaDB**  
 > Mencakup: tabel, relasi, trigger otomatis, dan view laporan.
+
+👨‍💻 Kelompok 2 Anggota :
+- Kemala Putri Oktaviani (16)
+- Muhammad Satria Nabil (21)
+- Salatin Nibras Bama Kerti (32)
 
 ---
 
